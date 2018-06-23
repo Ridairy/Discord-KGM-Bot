@@ -1,0 +1,13 @@
+{
+  "name": "KGM-Bot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main_bot.js",
+  "scripts": {
+    "start": "node main_bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
