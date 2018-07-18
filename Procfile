@@ -1,1 +1,1 @@
-worker:node main_bot.js
+worker=free:node main_bot.js
