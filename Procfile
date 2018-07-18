@@ -1,1 +1,1 @@
-worker:node main_bot.js
+worker: npm start
